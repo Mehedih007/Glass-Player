@@ -1,0 +1,18 @@
+{
+    "type": "lastwave-playlists",
+    "schemaVersion": 4,
+    "updatedAtMillis": 1793884731200,
+    "playlists": [
+        {
+            "id": 1793884730970,
+            "title": "Liked Songs",
+            "subtitle": "Songs you like in LastWave",
+            "mode": "liked",
+            "tracks": [],
+            "createdAtMillis": 1793884730971,
+            "discoverSignature": null,
+            "customCoverUri": null,
+            "isPinned": true
+        }
+    ]
+}
